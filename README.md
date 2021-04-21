@@ -7,7 +7,7 @@
 Udacity Nanodegree Bikeshare Project
 
 ### Description
-Takes user input and provides user with travel statistics filtered by city, month and/or day determined by input.
+Receives user input and provides user with travel statistics filtered by city, month and/or day determined by input.
 
 ### Files used
 Data provided about three cities in the following files:
